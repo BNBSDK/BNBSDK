@@ -3,6 +3,7 @@ import os
 import logging
 from pathlib import Path
 
+
 import pytest
 
 from mcp_cli.cli_options import load_config, extract_server_names, process_options
